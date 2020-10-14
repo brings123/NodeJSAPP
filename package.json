@@ -1,0 +1,31 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "A stories app created with NodeJS, Express and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brings123/NodeJSAPP.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Mongoose",
+    "Express",
+    "GoogleOAuth",
+    "Sessions",
+    "Cookies",
+    "EJS",
+    "HTML",
+    "CSS",
+    "MaterializeCSS"
+  ],
+  "author": "Chakib Afraoucene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brings123/NodeJSAPP/issues"
+  },
+  "homepage": "https://github.com/brings123/NodeJSAPP#readme"
+}
